@@ -5,7 +5,7 @@
    PassWord: 111111
    
 ## Server:
-   https://github.com/shahedmridhaa/Resell-leptop-center-server
+ https://github.com/ariyanabdullah/Laptop-center-server
 
 ### Project feature and funcationalities
   - If a visitor can visit this site he/she see Home $ Blog Page
